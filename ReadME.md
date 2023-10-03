@@ -1,4 +1,4 @@
-pokeSIM
+# pokeSIM
 
 An interactive game simulating a full pokemon gym against trainers. 
 
